@@ -1,0 +1,12 @@
+{
+    "title": "rgffg",
+    "baseURL": "http:\/\/werf.awqd.awd",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "params": {
+        "loginId": "1758927",
+        "subfolder": ""
+    }
+}
